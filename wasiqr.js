@@ -60,17 +60,16 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━  
-┃TEST IS WORKING
+┃BANKAI-MD
 ┃SUCCESSFULLY
 ┃CONNECTED ✅
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Test by = 𖥘 EASY RICHIE 𖥘
+❶ || MADE by = 𖥘 EASY RICHIE 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || BANKAI_MD
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Still Trying learn To Deploy Bot
-Wanna talk to me?👉 +2349129158834 👈
+MESSAGE MY HEAD CAPTAIN👉 +2349129158834 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 BOT*
 _____________________________________
